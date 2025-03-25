@@ -176,7 +176,7 @@ import {
       company_name: "VTS Ent. Pvt LTD",
       icon: vts,
       iconBg: "#ffffff",
-      date: "Jul 2024 - Present",
+      date: "Jul 2024 - Mar 2025",
       points: [
         "Developing and maintaining web applications using Java Spring boot Framework and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
